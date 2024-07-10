@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'DIN Condensed Bold';
+  src: url('https://github.com/nuriarojo/Caiena/raw/main/fonts/DIN Condensed Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Inter-VariableFont_slnt,wght';
+  src: url('https://github.com/nuriarojo/Caiena/raw/main/fonts/Inter-VariableFont_slnt,wghtv.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
