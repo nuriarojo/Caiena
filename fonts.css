@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'DIN Condensed Bold';
-  src: url('https://github.com/nuriarojo/Caiena/raw/main/fonts/DIN Condensed Bold.ttf') format('truetype');
+  src: url('https://github.com/nuriarojo/Caiena/blob/e788a7501573db1de0be4a603af2e05bfc2eeee7/DIN%20Condensed%20Bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'Inter-VariableFont_slnt,wght';
-  src: url('https://github.com/nuriarojo/Caiena/raw/main/fonts/Inter-VariableFont_slnt,wghtv.ttf') format('truetype');
+  src: url('https://github.com/nuriarojo/Caiena/blob/e788a7501573db1de0be4a603af2e05bfc2eeee7/Inter-VariableFont_slnt%2Cwght.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
